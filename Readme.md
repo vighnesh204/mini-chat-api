@@ -18,16 +18,8 @@ This project demonstrates RESTful routing, CRUD operations, and MongoDB integrat
 
 ---
 
-## 🛠 Tech Stack
-
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose  
-- EJS  
-- Method-Override  
-- Dotenv  
-
+🛠 Tech Stack
+<p align="left"> <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> </a> <a href="https://mongoosejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="50" height="50"/> </a> <a href="https://ejs.co/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="EJS" width="50" height="50"/> </a> <a href="https://www.npmjs.com/package/method-override" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Method-Override" width="50" height="50"/> </a> <a href="https://github.com/motdotla/dotenv" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Dotenv" width="50" height="50"/> </a> </p>
 ---
 
 ## 📂 Routes
